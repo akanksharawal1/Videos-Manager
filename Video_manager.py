@@ -35,9 +35,9 @@ def delete_video(video_id):
 
 def main():
     while True:
-        print("\n Your Youtube Manager Database | choose an option frow below: ")
-        print("1. List all youtube videos")
-        print("2. Add a youtube video")
+        print("\n Your Video Manager Database | choose an option frow below: ")
+        print("1. List all videos")
+        print("2. Add a video")
         print("3. Update video")
 
         print("4. Delete video")
